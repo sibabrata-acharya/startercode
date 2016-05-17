@@ -1,0 +1,6 @@
+---
+applications:
+- name: testapp20
+command: node app.js
+instances: 1
+random-route: true
